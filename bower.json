@@ -1,0 +1,17 @@
+{
+  "name": "Clamp.js",
+  "main": "Clamp.js",
+  "homepage": "https://github.com/luizgamabh/Clamp.js",
+  "authors": [
+    "Joe Schmitt"
+  ],
+  "description": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
